@@ -3,8 +3,8 @@
 p2p-bet is based on the chainlink starter kit (truffle). 
 
 
-Deploy smart contract to kovan testnet:
-truffle migrate --network kovan --reset -f 3
+Deploy smart contract to rinkeby testnet:
+truffle migrate --network rinkeby --reset -f 3
 
 Start UI:
 npm start run
